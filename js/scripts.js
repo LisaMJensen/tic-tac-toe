@@ -47,11 +47,11 @@ function playerSwitch() {
 
 var origBoard;
 var player1 = {
-  mark: "O",
+  mark: " \u26B0",
   activePlayer: true }
   // new Player("O", true);
 var player2 = {
-  mark: "X",
+  mark: "\u2620",
   activePlayer: false }
  // new Player("X", false);
 // var player1 = 'O';
